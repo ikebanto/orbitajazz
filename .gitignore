@@ -26,6 +26,7 @@
 !.oh-my-bash/
 .oh-my-bash/*
 !.on-my-bash/custom/
+.on-my-bash/custom/*
 .oh-my-bash/custom/aliases/*
 !.oh-my-bash/custom/aliases/
 !.oh-my-bash/custom/aliases/meusalias_bash.sh
