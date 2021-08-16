@@ -24,7 +24,15 @@
 !.oh-my-zsh/custom/aliases.zsh
 !.oh-my-zsh/custom/example.zsh
 
+!.oh-my-bash/
+.oh-my-bash/*
+!.oh-my-bash/custom/
+.oh-my-bash/custom/*
+
+
+
 !.bashrc
+
 !.zshrc
 
 !.vimrc
